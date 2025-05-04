@@ -1,0 +1,10 @@
+name: Cloud4Cut
+main: naeng\cloud4cut\Cloud4Cut
+version: 1.0.0
+api: 5.0.0
+depend:
+  - NaengUtils
+  - CooltimeCore
+virions:
+  - SOF3/await-generator/master
+  - presentkim-pm/libasynform/1.3.1
